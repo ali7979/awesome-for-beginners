@@ -325,7 +325,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Swift
 
-- [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+- [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get information or add a product
 
 ## TypeScript
 
